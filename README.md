@@ -1,3 +1,3 @@
 # Merging example
 
-Hello World
+Hello World!
