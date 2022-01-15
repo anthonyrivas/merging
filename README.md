@@ -1,1 +1,3 @@
-# merging
+# Merging example
+
+Hello World
